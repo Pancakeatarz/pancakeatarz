@@ -35,4 +35,7 @@ welcome peasant, I am pancakeatarz :3
 ⠀⠀⣾⠃⠀⠀⠀⠀⠀⢀⡼⣄⠀⠀⠀⠀⠀⠑⣽⣆⠀⠑⢝⡍⠒⠬⢧⣀⡠⠊⠀⠸⡀⠀⢹⡇⡎⠀⡿⢸⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⡼⠁⠀⠀⠀⠀⠀⠀⢀⠻⣺⣧⠀⠀⠀⠰⢢⠈⢪⡷⡀⠀⠙⡄⠀⠀⠱⡄⠀⠀⠀⢧⠀⢸⡻⠀⢠⡇⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⢰⠇⠀⠀⠀⠀⠀⠀⠀⢸⠀⡏⣿⠀⠀⠀⠀⢣⢇⠀⠑⣄⠀⠀⠸⡄⠀⠀⠘⡄⠀⠀⠸⡀⢸⠁⠀⡾⢰⡏⢳⡀⠀⠀
-<div class="tenor-gif-embed" data-postid="20176299" data-share-method="host" data-aspect-ratio="0.9875" data-width="100%"><a href="https://tenor.com/view/furude-rika-rika-bernkastel-pat-nipah-gif-20176299">Furude Rika Rika GIF</a>from <a href="https://tenor.com/search/furude+rika-gifs">Furude Rika GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<div id="header" align="center">
+  <img src="https://tenor.com/fr/view/furude-rika-rika-bernkastel-pat-nipah-gif-20176299" width="100"/>
+</div>
