@@ -1,5 +1,7 @@
 welcome peasant, I am pancakeatarz :3
-<div style="padding-top:74.419%;position:relative;"><iframe src="https://gifer.com/embed/8V5K" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<div id="header" align="center">
+  <img src="https://animesher.com/orig/0/98/988/9885/animesher.com_kawaii-moe-mangas-988574.gif" width="100"/>
+</div>
  welcome to my page I want to try to make nice projects that can be cool for me and others maybe 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠶⠚⠉⢉⣩⠽⠟⠛⠛⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
