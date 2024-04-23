@@ -37,5 +37,5 @@ welcome peasant, I am pancakeatarz :3
 ⢰⠇⠀⠀⠀⠀⠀⠀⠀⢸⠀⡏⣿⠀⠀⠀⠀⢣⢇⠀⠑⣄⠀⠀⠸⡄⠀⠀⠘⡄⠀⠀⠸⡀⢸⠁⠀⡾⢰⡏⢳⡀⠀⠀
 
 <div id="header" align="center">
-  <img src="[https://tenor.com/fr/view/furude-rika-rika-bernkastel-pat-nipah-gif-20176299](https://i.gifer.com/8V5K.gif)" width="100"/>
+  <img src="https://i.gifer.com/8V5K.gif" width="100"/>
 </div>
