@@ -37,5 +37,5 @@ welcome peasant, I am pancakeatarz :3
 ⢰⠇⠀⠀⠀⠀⠀⠀⠀⢸⠀⡏⣿⠀⠀⠀⠀⢣⢇⠀⠑⣄⠀⠀⠸⡄⠀⠀⠘⡄⠀⠀⠸⡀⢸⠁⠀⡾⢰⡏⢳⡀⠀⠀
 
 <div id="header" align="center">
-  <img src="https://gifer.com/embed/8V5K" width="100"/>
+  <img src="https://i.gifer.com/8V5K.gif" width="100"/>
 </div>
